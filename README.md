@@ -2,6 +2,10 @@
   Bootcamp Deep Learning
 </h1>
 <h3 align="center">⚠️ Note: Work in progress; details subject to change ⚠️</h3>
+<h4 align="center">
+  Questions: Reach out to us at <a href="mailto:lab@42ai.fr">lab@42ai.fr</a>
+</h4>
+
 <br/>
 
 ### Table of Contents
@@ -75,3 +79,6 @@ As notions seen during this bootcamp can be complex, we very strongly advise stu
 <br/>
 
 <h3 align="center">⚠️ Note: Work in progress; details subject to change ⚠️</h3>
+<h4 align="center">
+  Questions: Reach out to us at <a href="mailto:lab@42ai.fr">lab@42ai.fr</a>
+</h4>
