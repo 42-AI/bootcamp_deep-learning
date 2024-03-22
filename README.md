@@ -2,10 +2,6 @@
   Bootcamp Deep Learning
 </h1>
 <h3 align="center">⚠️ Note: Work in progress; details subject to change ⚠️</h3>
-<h4 align="center">
-  Questions: Reach out to us at <a href="mailto:lab@42ai.fr">lab@42ai.fr</a>
-</h4>
-
 <br/>
 
 ### Table of Contents
@@ -34,7 +30,7 @@ As notions seen during this bootcamp can be complex, we very strongly advise stu
 
 **Introduction to Deep Learning, covering fundamental concepts and principles.**
 
-> Perceptrons, Activation functions(ReLU, sigmoid, tanh), Loss functions
+> Perceptrons, Activation functions(sigmoid), Loss functions
 > 
 > Gradient descent, Backpropagation. 
 > 
@@ -46,9 +42,9 @@ As notions seen during this bootcamp can be complex, we very strongly advise stu
 
 > Deep neural network architecture, Fully connected layers
 > 
-> Training deep networks, Optimization algorithms(SGD, Adam)
+> Training deep networks, Optimization algorithms(SGD)
 > 
-> Regularization techniques (dropout, L2 regularization)
+> Regularization techniques (L2 regularization)
 
 ### Module12 - Convolutional Neural Networks
 
@@ -56,17 +52,17 @@ As notions seen during this bootcamp can be complex, we very strongly advise stu
 
 > Convolutional layers, Pooling layers, Stride and padding
 > 
-> Image preprocessing, Transfer learning, Object detection, Image segmentation
+> Image preprocessing, Transfer learning
 
 ### Module13 - Recurrent Neural Networks
 
 **Discover Recurrent Neural Networks (RNNs), emphasizing their sequential data processing capabilities for tasks such as time series analysis and natural language processing.**
 
-> Recurrent neural network architecture, Long Short-Term Memory (LSTM)
+> Recurrent neural network architecture
 > 
 > Sequence modeling, Time series forecasting
 > 
->  Natural language processing (NLP), Text generation, Sentiment analysis
+>  Text generation, Sentiment analysis
 
 ### Module14 - Advanced Materials
 
@@ -80,5 +76,8 @@ As notions seen during this bootcamp can be complex, we very strongly advise stu
 
 <h3 align="center">⚠️ Note: Work in progress; details subject to change ⚠️</h3>
 <h4 align="center">
-  Questions: Reach out to us at <a href="mailto:lab@42ai.fr">lab@42ai.fr</a>
+  Questions?<br>
+  Email: <a href="mailto:lab@42ai.fr">lab@42ai.fr</a><br>
+  Discord: cjung_mo<br>
+  Slack: cjung-mo<br> (Jungmoo Cheon, Head of Laboratory at 42AI)
 </h4>
