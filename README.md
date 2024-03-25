@@ -1,3 +1,4 @@
+
 <h1 align="center">
   Bootcamp Deep Learning
 </h1>
@@ -30,9 +31,9 @@ As notions seen during this bootcamp can be complex, we very strongly advise stu
 
 **Introduction to Deep Learning, covering fundamental concepts and principles.**
 
-> Perceptrons, Activation functions(sigmoid), Loss functions
+> Perceptrons, Activation function(sigmoid)
 > 
-> Gradient descent, Backpropagation. 
+> Loss functions, Cost functions, Gradient descent
 > 
 > Model evaluation metrics (accuracy, loss)
 
@@ -40,15 +41,15 @@ As notions seen during this bootcamp can be complex, we very strongly advise stu
 
 **Delve into Deep Neural Networks (DNNs), understanding their architecture, training process, and applications.**
 
-> Deep neural network architecture, Fully connected layers
+> Deep neural network architecture(neurons/units/nodes, layers), Fully connected layers
 > 
-> Training deep networks, Optimization algorithms(SGD)
+> Backpropagation, Training deep networks, Optimization algorithms(SGD)
 > 
 > Regularization techniques (L2 regularization)
 
 ### Module12 - Convolutional Neural Networks
 
-**Explore Convolutional Neural Networks (CNNs), focusing on image recognition, object detection, and other computer vision tasks.**
+**Explore Convolutional Neural Networks (CNNs), focusing on image recognition and other computer vision tasks.**
 
 > Convolutional layers, Pooling layers, Stride and padding
 > 
@@ -56,21 +57,19 @@ As notions seen during this bootcamp can be complex, we very strongly advise stu
 
 ### Module13 - Recurrent Neural Networks
 
-**Discover Recurrent Neural Networks (RNNs), emphasizing their sequential data processing capabilities for tasks such as time series analysis and natural language processing.**
+**Discover Recurrent Neural Networks (RNNs), emphasizing their sequential data processing capabilities for tasks such as time series analysis.**
 
 > Recurrent neural network architecture
 > 
 > Sequence modeling, Time series forecasting
-> 
->  Text generation, Sentiment analysis
 
 ### Module14 - Advanced Materials
 
-**Advanced topics in Deep Learning, including state-of-the-art models, optimization techniques, and emerging trends in the field.**
+**Advanced topics in Deep Learning, optimization techniques**
 
 > Advanced optimization techniques (momentum, RMSprop)
 > 
-> Learning rate scheduling, Batch normalization, Attention mechanisms
+> Learning rate scheduling, Batch normalization
 
 <br/>
 
