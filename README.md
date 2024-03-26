@@ -3,7 +3,9 @@
   Bootcamp Deep Learning
 </h1>
 <h3 align="center">⚠️ Note: Work in progress; details subject to change ⚠️</h3>
-<br/>
+<p align="center">
+<img src="./assets/42ai_lab_logo_bg_white_black_green_squared_1152_focus.png" style="margin: 0px auto 15px auto; width: 256px; height: auto"/>
+</p>
 
 ### Table of Contents
 
