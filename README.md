@@ -7,6 +7,19 @@
 <img src="./assets/42ai_lab_logo_bg_white_black_green_squared_1152_focus.png" style="margin: 0px auto 15px auto; width: 256px; height: auto"/>
 </p>
 
+## Description
+The Deep Learning Bootcamp serves as an extension of the existing 42AI bootcamps: **Python & Machine Learning**, aiming to introduce participants to advanced concepts in deep learning. Emphasizing consistency with former bootcamps, this program focuses on introducing new notions and concepts specific to deep learning.
+
+Two key considerations include maintaining alignment with past bootcamps and adjusting difficulty levels accordingly.
+
+Given its nature as an extension, the bootcamp may not revisit fundamental concepts already covered in previous bootcamps. Instead, it will delve into more advanced topics across five modules. These modules will include hands-on practices on building neural networks “from scratch” using Python code, primarily focusing on Deep Neural Networks (DNNs) while also touching upon the basics of Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs).
+
+Each module is structured to span one day, although the complexity of the content may necessitate additional time for thorough understanding and application. Adjustments in the duration of each module will be made based on the difficulty of the material covered to ensure comprehensive learning experiences for participants.
+
+<br>
+<br>
+
+
 ### Table of Contents
 
 - [Curriculum](#curriculum)
