@@ -1,5 +1,5 @@
 ---
-name: 'Issue: Exercise'
+name: 'Exercise'
 about: Create a report to help us improve. If this doesn't look right, choose a different
   type.
 title: ''
