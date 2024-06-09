@@ -7,6 +7,15 @@
 <img src="./assets/42ai_lab_logo_bg_white_black_green_squared_1152_focus.png" style="margin: 0px auto 15px auto; width: 256px; height: auto"/>
 </p>
 
+## Notions of the bootcamp
+- classification tasks
+- supervised learning
+- discriminative deep learning models
+- artificial neural networks (ANNs)
+- deep neural networks (DNNs)
+- convolutional neural networks (CNNs)
+- recurrent neural network (RNNs)
+
 ## Description
 The Deep Learning Bootcamp serves as an extension of the existing 42AI bootcamps: **Python & Machine Learning**, aiming to introduce participants to advanced concepts in deep learning. Emphasizing consistency with former bootcamps, this program focuses on introducing new notions and concepts specific to deep learning.
 
@@ -46,11 +55,14 @@ As notions seen during this bootcamp can be complex, we very strongly advise stu
 
 **Introduction to Deep Learning, covering fundamental concepts and principles.**
 
-> Perceptrons, Activation function(sigmoid)
+> Activation function(sigmoid), Cost functions
 > 
-> Loss functions, Cost functions, Gradient descent
+> Vectorization, Model evaluation metrics
 > 
-> Model evaluation metrics (accuracy, loss)
+> Gradient descent
+> 
+> Forward and backward propagation steps
+
 
 ### Module11 - Deep Neural Networks
 
@@ -80,7 +92,7 @@ As notions seen during this bootcamp can be complex, we very strongly advise stu
 
 ### Module14 - Advanced Materials
 
-**Advanced topics in Deep Learning, optimization techniques**
+**Advanced topics in Deep Learning, and optimization techniques**
 
 > Advanced optimization techniques (momentum, RMSprop)
 > 
