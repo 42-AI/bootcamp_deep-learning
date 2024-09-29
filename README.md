@@ -13,15 +13,14 @@
 - discriminative deep learning models
 - artificial neural networks (ANNs)
 - deep neural networks (DNNs)
-- convolutional neural networks (CNNs)
-- recurrent neural network (RNNs)
+
 
 ## Description
 The Deep Learning Bootcamp serves as an extension of the existing 42AI bootcamps: **Python & Machine Learning**, aiming to introduce participants to advanced concepts in deep learning. Emphasizing consistency with former bootcamps, this program focuses on introducing new notions and concepts specific to deep learning.
 
 Two key considerations include maintaining alignment with past bootcamps and adjusting difficulty levels accordingly.
 
-Given its nature as an extension, the bootcamp may not revisit fundamental concepts already covered in previous bootcamps. Instead, it will delve into more advanced topics across five modules. These modules will include hands-on practices on building neural networks “from scratch” using Python code, primarily focusing on Deep Neural Networks (DNNs) while also touching upon the basics of Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs).
+Given its nature as an extension, the bootcamp may not revisit fundamental concepts already covered in previous bootcamps. Instead, it will delve into more advanced topics across five modules. These modules will include hands-on practices on building neural networks “from scratch” using Python code.
 
 Each module is structured to span one day, although the complexity of the content may necessitate additional time for thorough understanding and application. Adjustments in the duration of each module will be made based on the difficulty of the material covered to ensure comprehensive learning experiences for participants.
 
@@ -33,10 +32,10 @@ Each module is structured to span one day, although the complexity of the conten
 
 - [Curriculum](#curriculum)
   - [Module10 - Stepping Into Deep Learning](#module10---stepping-into-deep-learning)
-  - [Module11 - Deep Neural Networks](#module11---deep-neural-networks)
-  - [Module12 - Convolutional Neural Networks](#module12---convolutional-neural-networks)
-  - [Module13 - Recurrent Neural Networks](#module13---recurrent-neural-networks)
-  - [Module14 - Advanced Materials](#module14---advanced-materials)
+  - [Module11 - Optimization](#module11---optimization)
+  - [Module12 - Deep Neural Networks](#module12---deep-neural-networks)
+  - [Module13 - Multiclass Classification](#module13---multiclass-classification)
+  - [Module14 - Hyperparameter Tuning and Regularization](#module14---hyperparameter-tuning-and-regularization)
 <br/>
 
 This project is a Deep Learning bootcamp **WORKING IN PROGRESS** by  [42 AI](http://www.42ai.fr/).
@@ -50,53 +49,56 @@ As notions seen during this bootcamp can be complex, we very strongly advise stu
 42 Artificial Intelligence is a student organization of the Paris campus of the school 42. Our purpose is to foster discussion, learning, and interest in the field of artificial intelligence, by organizing various activities such as lectures and workshops.
 
 ## Curriculum
-
-### Module10 - Stepping Into Deep Learning
+### Module 10 - Stepping Into Deep Learning
 
 **Introduction to Deep Learning, covering fundamental concepts and principles.**
 
-> Activation function(sigmoid), Cost functions
-> 
-> Vectorization, Model evaluation metrics
-> 
-> Gradient descent
-> 
-> Forward and backward propagation steps
+> Loss functions, Cost functions  
+> Activation function (sigmoid)  
+> Vectorization  
+> Model evaluation metrics (accuracy)  
 
+---
 
-### Module11 - Deep Neural Networks
+### Module 11 - Optimization
+
+**Explore optimization techniques that enhance the training process of deep learning models.**
+
+> Gradient descent  
+> Advanced optimization techniques (momentum, RMSprop, adam)  
+> Optimization algorithms (SGD)  
+> Normalization  
+
+---
+
+### Module 12 - Deep Neural Networks
 
 **Delve into Deep Neural Networks (DNNs), understanding their architecture, training process, and applications.**
 
-> Deep neural network architecture(neurons/units/nodes, layers), Fully connected layers
-> 
-> Backpropagation, Training deep networks, Optimization algorithms(SGD)
-> 
-> Regularization techniques (L2 regularization)
+> Binary classification  
+> Dense layer, Forward, Backpropagation  
+> Training deep networks  
 
-### Module12 - Convolutional Neural Networks
+---
 
-**Explore Convolutional Neural Networks (CNNs), focusing on image recognition and other computer vision tasks.**
+### Module 13 - Multiclass Classification
 
-> Convolutional layers, Pooling layers, Stride and padding
-> 
-> Image preprocessing, Transfer learning
+**Understand the principles and techniques for classifying data into multiple categories.**
 
-### Module13 - Recurrent Neural Networks
+> Multiclass classification  
+> Model architectures  
+> Softmax, Cross-entropy    
 
-**Discover Recurrent Neural Networks (RNNs), emphasizing their sequential data processing capabilities for tasks such as time series analysis.**
+---
 
-> Recurrent neural network architecture
-> 
-> Sequence modeling, Time series forecasting
+### Module 14 - Hyperparameter Tuning and Regularization
 
-### Module14 - Advanced Materials
+**Learn to optimize model performance through effective tuning and regularization strategies.**
 
-**Advanced topics in Deep Learning, and optimization techniques**
+> Hyperparameter Tuning, Grid Search, Random Search  
+> Regularization, Dropout, Regularization techniques (L2 regularization)  
+> Bias vs. Variance  
 
-> Advanced optimization techniques (momentum, RMSprop)
-> 
-> Learning rate scheduling, Batch normalization
 
 <br/>
 
