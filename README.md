@@ -27,15 +27,14 @@ Each module is structured to span one day, although the complexity of the conten
 <br>
 <br>
 
-
 ### Table of Contents
 
 - [Curriculum](#curriculum)
-  - [Module10 - Stepping Into Deep Learning](#module10---stepping-into-deep-learning)
-  - [Module11 - Optimization](#module11---optimization)
-  - [Module12 - Deep Neural Networks](#module12---deep-neural-networks)
-  - [Module13 - Multiclass Classification](#module13---multiclass-classification)
-  - [Module14 - Hyperparameter Tuning and Regularization](#module14---hyperparameter-tuning-and-regularization)
+  - [Module10 - Logistic Regression as a Perceptron](#10)
+  - [Module11 - Multilayer Perceptron](#11)
+  - [Module12 - Deep Neural Networks](#12)
+  - [Module13 - DNNs for Multiclass Classification](#13)
+  - [Module14 - Hyperparameter Tuning and Regularization](#14)
 <br/>
 
 This project is a Deep Learning bootcamp **WORKING IN PROGRESS** by  [42 AI](http://www.42ai.fr/).
@@ -48,57 +47,75 @@ As notions seen during this bootcamp can be complex, we very strongly advise stu
 
 42 Artificial Intelligence is a student organization of the Paris campus of the school 42. Our purpose is to foster discussion, learning, and interest in the field of artificial intelligence, by organizing various activities such as lectures and workshops.
 
+<br>
+
 ## Curriculum
-### Module 10 - Stepping Into Deep Learning
 
-**Introduction to Deep Learning, covering fundamental concepts and principles.**
+<a id="10"></a>
 
-> Loss functions, Cost functions  
-> Activation function (sigmoid)  
-> Vectorization  
-> Model evaluation metrics (accuracy)  
+### Module 10 - Logistic Regression as a Perceptron
+
+- sigmoid
+- forward
+- predict
+- binary cross entorpy loss
+- deriviatives
+- perceptron
+
+---
+
+<a id="11"></a>
+
+### Module 11 - Multilayer Perceptron
+
+- relu
+- dense layer
+- sgd optimization
+- MLP class
+- training
+- evaluation
+- binary classification
 
 ---
 
-### Module 11 - Optimization
-
-**Explore optimization techniques that enhance the training process of deep learning models.**
-
-> Gradient descent  
-> Advanced optimization techniques (momentum, RMSprop, adam)  
-> Optimization algorithms (SGD)  
-> Normalization  
-
----
+<a id="12"></a>
 
 ### Module 12 - Deep Neural Networks
 
 **Delve into Deep Neural Networks (DNNs), understanding their architecture, training process, and applications.**
 
-> Binary classification  
-> Dense layer, Forward, Backpropagation  
-> Training deep networks  
+- tanh
+- normalization: z-score, minmax
+- momentum optimization
+- DNN class
+- binary classification
 
 ---
+
+<a id="13"></a>
 
 ### Module 13 - Multiclass Classification
 
 **Understand the principles and techniques for classifying data into multiple categories.**
 
-> Multiclass classification  
-> Model architectures  
-> Softmax, Cross-entropy    
+- lecky relu
+- softmax
+- cross entropy loss
+- RMSProp optimization
+- model architecture
+- multiclass classification
 
 ---
+
+<a id="14"></a>
 
 ### Module 14 - Hyperparameter Tuning and Regularization
 
 **Learn to optimize model performance through effective tuning and regularization strategies.**
 
-> Hyperparameter Tuning, Grid Search, Random Search  
-> Regularization, Dropout, Regularization techniques (L2 regularization)  
-> Bias vs. Variance  
-
+- heyperprameter tuning: grid, random search
+- regularization: dropout, l2
+- bias-variance trade-off
 
 <br/>
 
