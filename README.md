@@ -34,7 +34,7 @@ Each module is structured to span one day, although the complexity of the conten
   - [Module11 - Multilayer Perceptron](#11)
   - [Module12 - Deep Neural Networks](#12)
   - [Module13 - DNNs for Multiclass Classification](#13)
-  - [Module14 - Hyperparameter Tuning and Regularization](#14)
+  - [Module14 - Regularization and Training Control](#14)
 <br/>
 
 This project is a Deep Learning bootcamp **WORKING IN PROGRESS** by  [42 AI](http://www.42ai.fr/).
@@ -58,8 +58,8 @@ As notions seen during this bootcamp can be complex, we very strongly advise stu
 - sigmoid
 - forward
 - predict
-- binary cross entorpy loss
-- deriviatives
+- binary cross entropy loss
+- derivatives
 - perceptron
 
 ---
@@ -88,6 +88,8 @@ As notions seen during this bootcamp can be complex, we very strongly advise stu
 - normalization: z-score, minmax
 - momentum optimization
 - DNN class
+- weight initialization
+- gradient checking
 - binary classification
 
 ---
@@ -98,23 +100,26 @@ As notions seen during this bootcamp can be complex, we very strongly advise stu
 
 **Understand the principles and techniques for classifying data into multiple categories.**
 
-- lecky relu
+- leaky relu
 - softmax
 - cross entropy loss
+- cross entropy derivative
+- softmax + cross-entropy backward
 - RMSProp optimization
-- model architecture
 - multiclass classification
 
 ---
 
 <a id="14"></a>
 
-### Module 14 - Hyperparameter Tuning and Regularization
+### Module 14 - Regularization and Training Control
 
-**Learn to optimize model performance through effective tuning and regularization strategies.**
+**Learn to control training and curb overfitting with scheduling, early stopping, and regularization.**
 
-- heyperprameter tuning: grid, random search
+- learning rate schedules
+- early stopping
 - regularization: dropout, l2
+- batch normalization
 - bias-variance trade-off
 
 <br/>
